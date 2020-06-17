@@ -21,13 +21,5 @@ public class MethodTest {
 	 * 3. 파라메터의 갯수가 달라야 합니다.
 	 * 4. 파라메터의 갯구가 같더라도 데이터 타입이 달라야 합니다.
 	 * 5. 파라메터의 갯수, 데이터타입이 같더라도 위치가 달라야 합니다.
-
-	static String add(String a) {
-		return "";
-	}
-	
-	public static void main(String[] args) {
-		
-	}
 	 */
 }

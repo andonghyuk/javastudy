@@ -11,6 +11,6 @@ public class Constructor {
 	
 	public static void main(String[] args) {
 		Constructor c;
-		c = new Constructor();
+		c = new Constructor();   
 	}
 }

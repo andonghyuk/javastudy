@@ -18,11 +18,9 @@ class SubTest extends Test{
 
 public class OverRideTest {
 	public static void main(String[] args) {
-//		Test t = new SubTest();
-//		t.run();
-		
-		Test st = new SubTest();
-		st.run();
+		Test t = new SubTest();
+		t.run();
+
 		
 	}
 }
